@@ -1,6 +1,5 @@
 # Tools for online mapping
 
-Sam Maurer  
 Guest presentation for UC Berkeley CP 255 - Urban Informatics  
 November 2, 2015
 
@@ -32,9 +31,4 @@ This demo introduces some technologies for creating interactive online maps. Fir
 
 * Putting them together in a custom webpage
 	* Leaflet, HTML, Javascript
-
-
-#### Exercise
-
-* Coming soon..
 
