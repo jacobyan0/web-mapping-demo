@@ -1,11 +1,11 @@
 Tools for creating interactive online maps
 -----
 
-[DOWNLOAD ZIPPED DEMO FILES](https://www.dropbox.com/s/j5lotg4zm24o664/web-mapping-demo-files.zip?dl=0)
-
 Guest lecture for CP 255 Urban Informatics  
 UC Berkeley  
 November 4, 2015
+
+[DOWNLOAD ZIPPED DEMO FILES](https://www.dropbox.com/s/j5lotg4zm24o664/web-mapping-demo-files.zip?dl=0)
 
 ### Examples from lecture
 
