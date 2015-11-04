@@ -1,4 +1,4 @@
-Tools for online mapping
+Tools for creating interactive online maps
 -----
 
 Guest lecture for CP 255 Urban Informatics  
