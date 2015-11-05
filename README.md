@@ -5,6 +5,7 @@ Guest lecture for CP 255 Urban Informatics
 UC Berkeley  
 November 4, 2015
 
+[Download slides](http://smmaurer.github.io/web-mapping-demo/Maurer%20web%20mapping%20slides.pdf)
 [Download zipped demo files](http://smmaurer.github.io/web-mapping-demo/web-mapping-demo-files.zip)
 
 
